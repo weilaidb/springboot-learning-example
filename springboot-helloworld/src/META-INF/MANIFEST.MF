@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: org.spring.springboot.Application
+Main-Class: org.spring.springboot.Main
 Class-Path: spring-expression-4.3.6.RELEASE.jar spring-core-4.3.6.RELEAS
  E.jar tomcat-embed-el-8.5.11.jar spring-aop-4.3.6.RELEASE.jar classmate
  -1.3.3.jar jboss-logging-3.3.0.Final.jar slf4j-api-1.7.22.jar spring-bo
